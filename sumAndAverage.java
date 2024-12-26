@@ -1,4 +1,4 @@
-/* import java.util.Scanner;
+import java.util.Scanner;
 
 public class sumAndAverage {
   public static void main(String[] args) {
@@ -19,4 +19,3 @@ public class sumAndAverage {
     System.out.println("average of the given numbers is " + average);
   }
 }
- */
